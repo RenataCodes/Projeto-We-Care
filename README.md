@@ -4,3 +4,4 @@
 <p> - CSS </p>
 
 <img src="https://github.com/RenataCodes/We-Care/blob/main/Captura%20de%20tela%20We%20Care.png?raw=true" />
+<img src="https://github.com/RenataCodes/We-Care/blob/main/Captura%20de%20tela%20We%20Care%20celular.png?raw=true" />
